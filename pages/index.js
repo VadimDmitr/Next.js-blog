@@ -30,8 +30,8 @@ export default function Home() {
         </p>
 
         <p>
-          Exploring nature's wonders or savoring a seafood meal with my wife
-          Kate and son Alex are my preferred ways to rejuvenate.
+          Exploring nature's wonders with my wife
+          and son are my preferred ways to rejuvenate.
         </p>
 
         <p>
