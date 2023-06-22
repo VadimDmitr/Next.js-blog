@@ -21,23 +21,26 @@ Ensure you have the following software installed on your system:
 ### Installation
 
 1. Clone the repo:
-   \```bash
+   ```bash
    git clone https://github.com/VadimDmitr/Next.js-blog.git
-   \```
+   ```
 
 2. Install dependencies:
 
    Navigate to the project directory:
+
    ```bash
    cd Next.js-blog
    ```
 
    Install the necessary dependencies:
+
    ```bash
    npm install
    ```
 
 3. Start the development server:
+
    ```bash
    npm run dev
    ```
