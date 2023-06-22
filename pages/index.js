@@ -28,35 +28,35 @@ export default function Home({ allPostsData }) {
         </p>
 
         <p>
-          I'm a Full Stack Developer with a passion for crafting efficient and
-          user-friendly digital solutions. I draw energy and inspiration from
-          rigorous workouts with the F3 Nation, which parallel my professional
-          discipline and precision.
+          Hi, I'm Vadim, a Full Stack Developer committed to creating efficient,
+          user-friendly digital solutions. Drawing energy from regular workouts
+          with F3 Nation, I apply the same discipline and precision to my
+          coding.
         </p>
 
         <p>
-          In addition, the principles of Aikido, which I practice weekly, remind
-          me of the importance of harmony and fluidity, elements I infuse into
-          my coding process.
+          A weekly practitioner of Aikido, its principles of harmony and
+          fluidity guide my coding process, leading to functional, intuitive
+          solutions.
         </p>
 
         <p>
-          Away from my keyboard, I relish the playful company of Loki, our
-          two-year-old Frenchton, and cherish my time with my supportive family.
+          My family is my source of strength, their presence reinforcing the
+          value of a balanced work-life. Our adventures in nature offer
+          refreshing counterpoints to my technical pursuits.
         </p>
 
         <p>
-          Exploring nature's wonders with my wife and son are my preferred ways
-          to rejuvenate.
+          Additionally, Loki, our energetic two-year-old Frenchton, adds joy and
+          vitality to my life. His spirit reminds me to enjoy life's simple
+          moments.
         </p>
 
         <p>
-          Balancing these personal passions with my professional endeavors, I've
-          realized the beauty of a holistic lifestyle where my role as a
-          developer complements my other interests.
+          As a Full Stack Developer, I believe in a balanced life where personal
+          passions and professional growth coexist. Welcome to my world, where
+          technology harmonizes with an enriching lifestyle.
         </p>
-
-        <p>Welcome to my world, where code meets lifestyle.</p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>
