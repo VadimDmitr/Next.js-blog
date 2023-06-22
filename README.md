@@ -21,19 +21,26 @@ Ensure you have the following software installed on your system:
 ### Installation
 
 1. Clone the repo:
-
-   `git clone https://github.com/VadimDmitr/Next.js-blog.git`
+   \```bash
+   git clone https://github.com/VadimDmitr/Next.js-blog.git
+   \```
 
 2. Install dependencies:
 
+   Navigate to the project directory:
+   \```bash
+   cd Next.js-blog
+   \```
 
-cd `Next.js-blog`
-`npm install`
-
+   Install the necessary dependencies:
+   \```bash
+   npm install
+   \```
 
 3. Start the development server:
-
-   `npm run dev`
+   \```bash
+   npm run dev
+   \```
 
 Your site should now be accessible at `http://localhost:3000`.
 
