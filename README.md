@@ -28,19 +28,19 @@ Ensure you have the following software installed on your system:
 2. Install dependencies:
 
    Navigate to the project directory:
-   \```bash
+   ```bash
    cd Next.js-blog
-   \```
+   ```
 
    Install the necessary dependencies:
-   \```bash
+   ```bash
    npm install
-   \```
+   ```
 
 3. Start the development server:
-   \```bash
+   ```bash
    npm run dev
-   \```
+   ```
 
 Your site should now be accessible at `http://localhost:3000`.
 
